@@ -1,7 +1,7 @@
 [app]
-title = ToDo App
-package.name = todoapp
-package.domain = org.deekshith
+title = CorrectedCa
+package.name = corrected
+package.domain = org.lufu
 android.archs = arm64-v8a
 source.main = main.py
 source.dir = .
